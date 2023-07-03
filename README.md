@@ -6,3 +6,16 @@ I am an analyst with ample experience in the academic and public sectors. Curren
 I am interested in the real-life applications of data for system-wide decision-making. I have analyzed projects across multiple levels of government (regional, provincial, and federal). I have learned how to operate multiple statistical tools (R, Python, SQL, Excel, SPSS, SAS, and MPlus). My previous work expands a vast array of topics (e.g., police reform, technology adoption, cognitive psychology, education, transportation, substance use policy, and social determinants of health).
 
 ---
+
+## Academic Projects
+
+### Thematic Analysis of Research on Refugee Children
+
+### Intraindividual Variability in Persons with Dementia
+
+---
+
+## Public Sector Projects
+
+Because of constraints regarding confidentiality, I am not able to disclose in full the contents of my analysis while working as a policy analyst in the public sector. Still, I wanted to describe the work that I did and provide limited extracts of the work I undertook. 
+
